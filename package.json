@@ -1,0 +1,28 @@
+{
+  "name": "elasticsearch-data-importer",
+  "version": "1.0.0",
+  "description": "Import data from elasticsearch server to another",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabh56/elasticsearch-data-importer.git"
+  },
+  "keywords": [
+    "elasticsearch",
+    "data"
+  ],
+  "author": "Sourabh kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabh56/elasticsearch-data-importer/issues"
+  },
+  "homepage": "https://github.com/sourabh56/elasticsearch-data-importer#readme",
+  "dependencies": {
+    "cli-interact": "^0.1.9",
+    "elasticsearch": "^15.3.1",
+    "readline-sync": "^1.4.9"
+  }
+}
