@@ -3,6 +3,7 @@ Import data from one elasticsearch server to another using Node.js.
 
 **Usage**
 ```
+$ npm install
 $ node index.js
 ```
 This will prompt you to provide the folowing details: 
