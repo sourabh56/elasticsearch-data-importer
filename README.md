@@ -1,9 +1,14 @@
 # elasticsearch-data-importer
 Import data from one elasticsearch server to another using Node.js.
 
-**Usage**
+### Pre-requisite:
+Clone the repo and run following command in the installed directory:  
+`$ npm install`  
+OR simply run:  
+`$ npm install elasticsearch-data-importer`
+### Usage
+Open the directory in terminal and run:
 ```
-$ npm install
 $ node index.js
 ```
 This will prompt you to provide the folowing details: 
